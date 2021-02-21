@@ -4,7 +4,7 @@
 [![License MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/danielgatis/go-simplerouter/master/LICENSE)
 [![Go Doc](https://img.shields.io/badge/godoc-reference-blue.svg?style=flat-square)](https://godoc.org/github.com/danielgatis/go-simplerouter)
 
-This package is a simple request router.
+This package is asimple request router for Go in ~100 lines of code.
 
 ### How to use
 
