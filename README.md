@@ -3,8 +3,6 @@
 [![Go Report Card](https://goreportcard.com/badge/github.com/danielgatis/go-simplerouter?style=flat-square)](https://goreportcard.com/report/github.com/danielgatis/go-simplerouter)
 [![License MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/danielgatis/go-simplerouter/master/LICENSE)
 [![Go Doc](https://img.shields.io/badge/godoc-reference-blue.svg?style=flat-square)](https://godoc.org/github.com/danielgatis/go-simplerouter)
-[![Release](https://img.shields.io/github/release/danielgatis/go-simplerouter.svg?style=flat-square)](https://github.com/danielgatis/imgcat/releases/latest)
-
 
 This package is a simple request router.
 
